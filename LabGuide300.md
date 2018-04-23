@@ -10,7 +10,7 @@ This lab will walk you through additional features of **Oracle Big Data Cloud**.
 In particular, this lab will focus on interacting with **Spark** and **Spark SQL**. 
 
 
-Please direct comments to: David Bayard (david.bayard@oracle.com)
+
 
 ## Objectives
 
