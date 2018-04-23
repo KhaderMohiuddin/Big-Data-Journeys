@@ -11,7 +11,6 @@ In this lab, you learn how to provision a **Oracle Big Data Cloud (BDC)** cluste
 
 The Oracle Big Data Cloud (BDC) enables you to rapidly, securely, and cost-effectively leverage the power of an elastic, integrated Big Data Infrastructure to unlock the value in Big Data.   In this lab, we will walk you through the steps to quickly configure and create a Big Data Cloud instance.  When done you will see how to view the configuration and layout of your instance using the Oracle Big Data Console.  
 
-Please direct comments to: David Bayard (david.bayard@oracle.com)
 
 ## Objectives
 
