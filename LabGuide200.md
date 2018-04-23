@@ -11,7 +11,6 @@ You will use the Notebook feature of BDC to run a series of tutorials that show 
 
 Notebooks are used to explore and visualize data in an iterative and easily documented fashion. Oracle Big Data Cloud Service - Compute Edition uses Apache Zeppelin as its notebook interface and coding environment.  Information about Zeppelin can be found here: [https://zeppelin.apache.org/](https://zeppelin.apache.org/) .  
 
-Please direct comments to: David Bayard (david.bayard@oracle.com)
 
 ## Objectives
 
